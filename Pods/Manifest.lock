@@ -1,0 +1,16 @@
+PODS:
+  - CocoaAsyncSocket (HEAD based on 7.4.3):
+    - CocoaAsyncSocket/All (= HEAD based on 7.4.3)
+  - CocoaAsyncSocket/All (HEAD based on 7.4.3):
+    - CocoaAsyncSocket/GCD
+    - CocoaAsyncSocket/RunLoop
+  - CocoaAsyncSocket/GCD (HEAD based on 7.4.3)
+  - CocoaAsyncSocket/RunLoop (HEAD based on 7.4.3)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket (HEAD)
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: a18c75dca4b08723628a0bacca6e94803d90be91
+
+COCOAPODS: 0.39.0
